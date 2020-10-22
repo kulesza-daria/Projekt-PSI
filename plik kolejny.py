@@ -1,0 +1,1 @@
+# stworzyłem nowy plik Pytonowy
