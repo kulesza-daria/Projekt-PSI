@@ -1,4 +1,2 @@
-# Projekt-PSI
-# dodaje komentarz, nice
-print("Hej")
-# jestem w branchu pachołek
+# Model bazy danych
+<img align="left" src="db_schema.png">
